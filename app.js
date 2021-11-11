@@ -7,3 +7,8 @@ let pp = 0;
 let rr = gg + pp;
 console.log(rr);
 
+
+for (let i = 0; i < 100; i++) {
+    console.log(i);
+
+}
